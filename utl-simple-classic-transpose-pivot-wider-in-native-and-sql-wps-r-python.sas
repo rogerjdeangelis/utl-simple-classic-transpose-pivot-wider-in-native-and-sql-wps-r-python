@@ -11,7 +11,11 @@ Simple classic transpose pivot wider in native and sql wps r python
        5 wps r no sql
        6 wps python no sql (it seems that python needs a column with the names for columns)
        7 loosely related repos
-
+       
+github                                                                                                     
+http://tinyurl.com/3dmtzekt                                                                                
+https://github.com/rogerjdeangelis/utl-simple-classic-transpose-pivot-wider-in-native-and-sql-wps-r-python 
+                                                                                                           
 stackoverflow R
 http://tinyurl.com/2s4d4w4s
 https://stackoverflow.com/questions/77806960/how-do-i-condense-a-data-frame-to-be-wider-while-maintaining-row-inputs-as-row-i
