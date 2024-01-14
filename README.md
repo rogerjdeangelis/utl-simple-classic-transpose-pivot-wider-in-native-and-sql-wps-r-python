@@ -2,7 +2,11 @@
     %let pgm=utl-simple-classic-transpose-pivot-wider-in-native-and-sql-wps-r-python;
 
     Simple classic transpose pivot wider in native and sql wps r python
-
+                                                                                                               
+    github                                                                                                     
+    http://tinyurl.com/3dmtzekt                                                                                
+    https://github.com/rogerjdeangelis/utl-simple-classic-transpose-pivot-wider-in-native-and-sql-wps-r-python 
+                                                                                                        
       SIX SOLUTIONS
 
            1 wps sql
